@@ -1,4 +1,5 @@
 # Analisis-Numerico
+Repositorio de apoyo a la asignatura
 
 
 Profesor: Juan Carlos Basto Pineda
