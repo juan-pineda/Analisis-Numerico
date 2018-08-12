@@ -5,6 +5,7 @@
    Introducción: Concepto de algoritmos. Análisis de errores. Estabilidad numerica. Estabilidad de los algoritmos. Representación finita e infinita de los números. Órdenes de convergencia.
 
    Solución de ecuaciones no lineales en una variable: Introducción; método de bisección; método de Newton; método de la secante; método de punto fijo e iteración funcional.
+   
    Solución de sistemas de ecuaciones lineales: Ortogonalización Gram Schmidt, eliminación de Gauss, método Jacobi.
 
 2. segundo corte
