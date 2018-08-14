@@ -16,7 +16,7 @@ Universidad Industrial de Santander
 * Miércoles 4:00 - 5:00 p.m
 
 Las consultas se realizarán en la sala de profesores de cátedra de la Escuela de Matemáticas,
-en el primer piso de LL. Por favor verificar si el horario propuesto les sirve, y en caso
+en el primer piso de LL. Por favor verificar si el horario propuesto les sirve, en caso contrario
 avisarme por e-mail.
 
 ## Bibliografía
