@@ -30,4 +30,23 @@
 * Examen del tercer corte: 20%
 * Trabajo del tercer corte: 20%
 
+## Bibliografía
+
+Computational Physics With Python
+Eric Ayars
+California State University, Chico
+2013
+
+Numerical Methods in Engineering with Python 3
+Jaan Kiusalaas
+Cambridge University Press
+2013
+
+Scientific Computing
+An Introductory Survey
+Michael T. Heath
+Mc Graw Hill Higher Education
+2002
+
+
 
