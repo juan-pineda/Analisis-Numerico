@@ -62,7 +62,16 @@ Si en cambio deseamos crear un programa con toda una serie de instrucciones, y l
 ```
 python mi_primer_script.py
 ```
+Un punto intermedio es utilizar `jupyter notebook`, donde podemos ir rodando bloques de código de forma interactiva, pero además podemos ir almacenándolos en un archivo de extensión `.ipynb` para seguirlo utilizando después. Para rodar esta interfaz digite en un terminal
 
+```
+jupyter notebook &
+```
 
+## ¿Qué pasa si no tengo Python instalado?
+
+Es posible rodar notebooks online desde: <https://mybinder.org/>
+Ingresar en binder el repositorio de la asignatura, y escoger el archivo `000_Quick_Python_Intro.ipynb`
+Una vez allí, podrán crear nuevos archivos para sus propios proyectos, guardarlos, transportarlos y cargarlos desde su disco cuando sea necesario.
 
 
