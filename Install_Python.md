@@ -22,20 +22,6 @@ Para testar:
    where python
    where conda
    ```
-   
-[//]: # (Si no activaron la casilla para actualizar el PATH, hay que hacerlo manualmente.
-Abrir el “command prompt” o el “cmd”, y digitar algo como:
-`SETX PATH “%PATH%;C:\...\....;C:\...\...\Anaconda2`
-Donde los dos paths sugeridos deben corresponder a las salidas en el “anaconda prompt” de los comandos:   
-```
-where python 
-where conda
-```)
-
-Para que el sistema detecte los cambios en PATH hay que cerrar el terminal y abrir uno nuevo, para que el sistema lea de nuevo el archivo de configuraciones.
-
-Python ya debería estar disponible. Para asegurarse, en el “cmd” digitar:
-`python`
 
 ## Instalando Python en Linux:
 
@@ -46,10 +32,12 @@ En resumen...
 
 1. Descargar [Anaconda:](https://www.anaconda.com/download/#linux)
 
-2. Checar la integridad del archivo (sin errores) corroborando si la suma de
-verificación “sha” corresponde con lo que debería ser. Es única del archivo
-descargado y se encuentra [aquí](https://docs.continuum.io/anaconda/hashes/)
-El sha de nuestro archivo se verifica así (deben coincidir):   
+2. Checar la integridad del archivo verificando la suma
+“sha”. Tal suma identifica de forma única al archivo
+descargado, y se encuentra pulsando [aquí](https://docs.continuum.io/anaconda/hashes/)
+El sha de la página debe coincidir con el sha de nuestro archivo,
+verifíquelo con el siguiente comando, cambiando al nombre de archivo
+specífico que se haya descargado:
 `sha256sum Anaconda3-4.3.1-Linux-x86_64.sh`  
 
 3. Correr el archivo de instalación desde un terminal (cambiar al nombre de archivo
@@ -61,40 +49,19 @@ autorizar a conda a actualizar la variable PATH para que conda y python
 sean visibles para todo el sistema. En otro caso, posiblemente tendremos
 que hacerlo a mano.
 
-2. Checar la integridad del archivo (sin errores) corroborando si la suma de
-verificación “sha” corresponde con lo que debería ser. Es única del archivo
-descargado y se encuentra [aquí](https://docs.continuum.io/anaconda/hashes/)
-El sha de nuestro archivo se verifica así (deben coincidir):   
-`sha256sum Anaconda3-4.3.1-Linux-x86_64.sh`  
-
-3. Correr el archivo de instalación desde un terminal:  
-`bash Anaconda3-4.3.1-Linux-x86_64.sh`
-
-4. En caso de duda, seguir las configuraciones por defecto. Si le preguntan,
-autorizar a conda a actualizar la variable PATH para que conda y python
-sean visibles para todo el sistema. En otro caso, posiblemente tendremos
-que hacerlo a mano.
-
 ## Usando Python:
 
-Hay diferentes maneras de trabajar:
+Hay diferentes maneras de trabajar. Por ahora, para sesiones interactivas utilizaremos la interface interactiva conocida como **ipython**. Para abrirla, desde un terminal digite
 
-```python
-python mi_primer_script.py
+```
 ipython
-jupyter notebook
 ```
 
-## Primeros pasos:
+Si en cambio deseamos crear un programa con toda una serie de instrucciones, y luego pedirle a python que las interprete de forma contínua, debemos almacenar el archivo con la extensión `.py`  y luego lo rodamos desde un terminal así:
 
-Trabajar los siguientes notebooks:
-
-* 00_Quick_Python_Intro.ipynb
-* numerical-slides.ipynb
-
-
-
-
+```
+python mi_primer_script.py
+```
 
 
 
