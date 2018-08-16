@@ -5,11 +5,15 @@ juan.basto.pineda@gmail.com
 
 Universidad Industrial de Santander
 
-Última actualización: 14 de agosto de 2018
+Última actualización: 16 de agosto de 2018
 
 
 
 # Noticias:
+
+## Python
+
+Se agregaron a este repositorio instrucciones sobre la instalación y el uso de python. Hoy vamos a trabajar en ello en clase.
 
 ## Horarios de consulta
 
