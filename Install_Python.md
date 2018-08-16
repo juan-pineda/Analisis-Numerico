@@ -37,7 +37,7 @@ En resumen...
 descargado, y se encuentra pulsando [aquí](https://docs.continuum.io/anaconda/hashes/)
 El sha de la página debe coincidir con el sha de nuestro archivo,
 verifíquelo con el siguiente comando, cambiando al nombre de archivo
-specífico que se haya descargado:
+specífico que se haya descargado:  
 `sha256sum Anaconda3-4.3.1-Linux-x86_64.sh`  
 
 3. Correr el archivo de instalación desde un terminal (cambiar al nombre de archivo
