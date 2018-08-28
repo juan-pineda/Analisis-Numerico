@@ -5,27 +5,28 @@ juan.basto.pineda@gmail.com
 
 Universidad Industrial de Santander
 
-Última actualización: 16 de agosto de 2018
+Última actualización: 28 de agosto de 2018
 
 
 
 # Noticias:
 
-## Python
-
-Se agregaron a este repositorio instrucciones sobre la instalación y el uso de python. Hoy vamos a trabajar en ello en clase.
-
 ## Horarios de consulta
+Debido a un curso que debo hacer en la Universidad, tenemos cambiar los horarios de
+consulta. De ahora en adelante destinaremos los lunes de 8:00 - 9:00 a.m, en la sala de
+profesores de cátedra de la Escuela de Matemáticas, en el primer piso de LL.  
 
-* Miércoles 4:00 - 5:00 p.m
+Pueden venir también durante mi horario dedicado a cálculo, los lunes 3:00 - 4:00 p.m, 
+y los viernes 4:00 - 5:00 p.m, en el mismo salón.
 
-Las consultas se realizarán en la sala de profesores de cátedra de la Escuela de Matemáticas,
-en el primer piso de LL. Por favor verificar si el horario propuesto les sirve, en caso contrario
-avisarme por e-mail.
+## Primer trabajo
+Ya está aquí el archivo con los problemas que deben resolver, se llama Taller_1.pdf.
+Pueden comenzar a mirarlo y en caso de dudas conversamos el jueves en clase.
 
-## Bibliografía
+## Lectura sobre el estándar IEEE de punto flotante:
+[Esta lectura está muy bien](https://www.ias.ac.in/article/fulltext/reso/021/01/0011-0030 "Floating Point Numbers"). Si tienen problemas con el idioma, los animo a buscar material
+en español y compartirme el que hallaron más claro o didáctico. Seguro se consigue ya que
+este es un tema muy conocido.
 
-Puse algunos libros en la bibliografía. Están en inglés, pero voy a tratar de encontrar
-algún buen material en español para recomendarles también.
 
 
