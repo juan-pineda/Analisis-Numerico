@@ -20,7 +20,7 @@ Pueden venir también durante mi horario dedicado a cálculo, los lunes 3:00 - 4
 y los viernes 4:00 - 5:00 p.m, en el mismo salón.
 
 ## Primer trabajo
-Ya está aquí el archivo con los problemas que deben resolver, se llama Taller_1.pdf.
+Ya está aquí el archivo con los problemas que deben resolver, se llama [Taller_1.pdf](https://github.com/juan-pineda/Analisis-Numerico/blob/master/Taller_1.pdf "Enunciados").
 Pueden comenzar a mirarlo y en caso de dudas conversamos el jueves en clase.
 
 ## Lectura sobre el estándar IEEE de punto flotante:
